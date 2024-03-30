@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jabedalimollah
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently working on React JS
