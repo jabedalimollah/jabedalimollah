@@ -1,8 +1,8 @@
 ![logo](https://cognizant.scene7.com/is/image/cognizant/temenos-system-integration-services-hero-banner)
-<h1 align="center">Hi 👋, I'm Jabed Ali Mollah</h1>
+<h1 align="center">Hi <img  alt="hi" width="40" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png"> I'm Jabed Ali Mollah</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <div>
-  <h2 align="left" > 💫 About Me: <h2/>
+  <h2 align="left" > <img  alt="hi" width="25" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/dizzy_1f4ab.gif">  About Me: <h2/>
 </div>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
