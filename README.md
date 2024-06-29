@@ -1,6 +1,9 @@
 ![logo](Picsart_24-04-23_22-03-17-809.jpg)
 <h1 align="center">Hi <img  alt="hi" width="40" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png"> I'm Jabed Ali Mollah</h1>
 <h3 align="center">A passionate Web developer from India</h3>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&random=false&width=500&lines=Hello%2C+I'm+Jabed+Ali+Mollah;Web+Developer" alt="Typing SVG" /></a>
+</p>
 <div>
   <h2 align="left" > <img  alt="hi" width="25" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/dizzy_1f4ab.gif">  About Me: <h2/>
 </div>
@@ -16,7 +19,7 @@
 
 - 📄 Know about my experiences [https://jabedalimollah.netlify.app/](https://jabedalimollah.netlify.app/)
 
-- ⚡ Fun fact **I am funny😊**
+- ⚡ Fun fact **😊**
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
