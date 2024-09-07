@@ -8,7 +8,7 @@
   <h2 align="left" > <img  alt="hi" width="25" src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/dizzy_1f4ab.gif">  About Me: <h2/>
 </div>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=jabedalimollah&label=Profile%20views&color=0e75b6&style=flat" alt="jabedalimollah" /> </p>
  
 - 👨‍💻 All of my projects are available at [https://jabedalimollah.netlify.app/](https://jabedalimollah.netlify.app/)
