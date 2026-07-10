@@ -11,13 +11,13 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=jabedalimollah&label=Profile%20views&color=0e75b6&style=flat" alt="jabedalimollah" /> </p>
  
-- 👨‍💻 All of my projects are available at [https://jabedalimollah.netlify.app/](https://jabedalimollah.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://jabedalimollah.vercel.app/](https://jabedalimollah.vercel.app/)
 
 - 💬 Ask me about **HTML, CSS, Javascript, React JS, Next JS, Node JS, Express JS and MongoDB**
 
 - 📫 How to reach me **jabedalimollah7@gmail.com**
 
-- 📄 Know about my experiences [https://jabedalimollah.netlify.app/](https://jabedalimollah.netlify.app/)
+- 📄 Know about my experiences [https://jabedalimollah.vercel.app/](https://jabedalimollah.vercel.app/)
 
 - ⚡ Fun fact **😊**
 
