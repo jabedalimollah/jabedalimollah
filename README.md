@@ -1,4 +1,4 @@
-![logo](Picsart_24-04-23_22-03-17-809.jpg)
+![logo](https://jabedali.vercel.app/images/seo/og-image.png)
 <h1 align="center">Hi <img  alt="hi" width="40" src="https://em-content.zobj.net/source/microsoft-teams/363/waving-hand_1f44b.png"> I'm Jabed Ali Mollah</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <p align="center">
